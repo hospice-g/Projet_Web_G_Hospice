@@ -32,6 +32,8 @@
 
        
        <div class="col-md-12">
+         <div class="externe">
+          <div class="interne">
          <table class="table table-hover ">
         <thead class="table-light">
             
@@ -64,6 +66,8 @@
             @endforeach
           @endforeach  
         </table>
+      </div>
+    </div>
          
       </div>
          
@@ -81,6 +85,8 @@
 
        
        <div class="col-md-12">
+         <div class="externe">
+          <div class="interne">
          <table class="table table-hover ">
         <thead class="table-light">
           
@@ -113,6 +119,8 @@
             @endforeach
           @endforeach  
         </table>
+      </div>
+    </div>
          
       </div>
          
@@ -129,6 +137,8 @@
 
        
        <div class="col-md-12">
+         <div class="externe">
+          <div class="interne">
          <table class="table table-hover ">
         <thead class="table-light">
            
@@ -147,6 +157,8 @@
            
           @endforeach  
         </table>
+      </div>
+    </div>
          
       </div>
          

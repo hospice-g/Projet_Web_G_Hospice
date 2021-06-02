@@ -1331,6 +1331,27 @@ pre code {
     order: -1;
   }
 
+
+
+  .externe{
+
+    position: relative;
+    overflow: hidden;
+    display: block;
+    overflow-x: scroll;
+    overflow-y: scroll;
+    width:100%;
+    height: 400px;
+    z-index: auto;
+  }
+
+  .interne{
+
+    position: absolute;
+    white-space: nowrap;
+    z-index: auto;
+  }
+
   .order-lg-last {
     order: 13;
   }

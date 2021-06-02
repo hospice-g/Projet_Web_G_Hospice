@@ -59,6 +59,10 @@
 
        
        <div class="col-md-12">
+        <div class="externe">
+          <div class="interne">
+            
+          
          <table class="table table-hover ">
         <thead class="table-light">
             <tr>
@@ -95,6 +99,8 @@
      </tr>
           @endforeach  
         </table>
+      </div>
+    </div>
          
       </div>
          
